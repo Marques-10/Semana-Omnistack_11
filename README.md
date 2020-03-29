@@ -1,5 +1,5 @@
 <h1 align="center">
-    ![Alt text](./mobile/src/assets/logo@3x.png?raw=true "Logo")
+    ![Alt text](mobile/src/assets/logo@3x.png?raw=true "Logo")
 </h1>
 
 <h2 align="center">
