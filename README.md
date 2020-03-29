@@ -1,6 +1,6 @@
-<h1 align="center">
-    ![Alt text](mobile/src/assets/logo@3x.png?raw=true "Logo")
-</h1>
+
+![Alt text](mobile/src/assets/logo@3x.png?raw=true "Logo")
+
 
 <h2 align="center">
   <br/>
