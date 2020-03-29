@@ -1,10 +1,8 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+    ![Alt text](./mobile/src/assets/logo@3x.png?raw=true "Logo")
 </h1>
 
 <h2 align="center">
-
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
